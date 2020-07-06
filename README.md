@@ -4,3 +4,4 @@ Has solutions & explanations.
 ### Current Challenges
 - May Challenge(on-going)
 - June Challenge(on-going)
+- July Challenge(on-going)
