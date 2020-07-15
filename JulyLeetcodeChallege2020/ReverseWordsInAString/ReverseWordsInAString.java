@@ -1,6 +1,6 @@
 
-LEETCODE - Reverse Words in a String
-Approach - simple string approach
+// LEETCODE - Reverse Words in a String
+// Approach - simple string approach
 class Solution {
     public String reverseWords(String s) {
         if(s==null || s.length()==1)
@@ -23,5 +23,5 @@ class Solution {
         return sb.toString();
     }
 }
-TC - 0(n)
-SC - 0(n)
+// TC - 0(n)
+// SC - 0(n)
