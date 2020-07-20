@@ -28,5 +28,5 @@ class Solution {
     }
 }
 
-TC - 0(n) - wrst case going to each node 
-SC - 0(n) - if tree is skewed , then height is maximum
+// TC - 0(n) - wrst case going to each node 
+// SC - 0(n) - if tree is skewed , then height is maximum
