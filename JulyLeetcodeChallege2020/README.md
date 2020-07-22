@@ -9,5 +9,5 @@ No  | Problem | Algo/DS | TC  | SC|Vid/Expl links|Difficulty|
 18|Course Scehdule II |Topological Sort|0(V+E)|0(V)|My topSort Notes|medium|
 19|Add Binary|String & Bit|0(n)|0(1)|-|easy|
 20|Remove Linked List Elements|Linked List|0(n)|0(1)|-|easy|
-21|Word Search|dfs-bcktracking|0(r*c*word.length)|0(r*c)|Kevin-https://www.youtube.com/watch?v=vYYNp0Jrdv0|medium|
+21|Word Search|dfs-bcktracking|0(r * c * word.length)|0(r * c)|Kevin-https://www.youtube.com/watch?v=vYYNp0Jrdv0|medium|
 
